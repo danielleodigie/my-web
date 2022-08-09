@@ -1,18 +1,18 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'my-website',
+    title: 'Danielle Odigie',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: "a peek into Danielle Odigie's head" },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: 'images/D.png' }
     ]
   },
 
@@ -42,5 +42,8 @@ export default {
   build: {
   },
 
+  server: {
+    host: '0.0.0.0' // default: localhost
+  }
 
 }

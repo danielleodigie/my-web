@@ -55,4 +55,20 @@
         }
 
     }
+
+    @media only screen and (max-width: 480px){
+
+        .left, .right{
+            width: 90%;
+            display: grid;
+            grid-auto-flow: row;
+            grid-row-gap: 40px;
+            grid-column-gap: 0px;
+        }
+
+        .right img{
+            order: 0;
+        }
+
+    }
 </style>

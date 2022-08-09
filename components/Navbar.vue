@@ -3,7 +3,7 @@
         <NuxtLink to="/" id="home">danielle.</NuxtLink>
         <ul id="navlinks">
             <NuxtLink to="/about">About</NuxtLink>
-            <NuxtLink to="#">Projects</NuxtLink>
+            <NuxtLink to="/projects">Projects</NuxtLink>
         </ul>
         <hr>
     </div>
@@ -65,4 +65,14 @@
         border-radius: 3px;
     }
     
+    @media only screen and (max-width: 480px){
+        #home{
+            font-size: 30px;
+            margin-top: 15px;
+        }
+
+        #navlinks a{
+            font-size: 20px;
+        }
+    }
 </style>

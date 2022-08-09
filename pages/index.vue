@@ -27,6 +27,9 @@ export default Vue.extend({
         "Hola",
         "Privet",
         "Hallo",
+        "Ciao",
+        "Shalom",
+        "Koyo"
       ],
       index: 0
     }
@@ -94,5 +97,12 @@ export default Vue.extend({
     padding-right: 40px;
     padding-top: 8px;
     padding-bottom: 8px;
+  }
+
+  @media only screen and (max-width: 480px){
+
+    #greeting{
+      font-size: 40px;
+    }
   }
 </style>
