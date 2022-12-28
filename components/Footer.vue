@@ -2,7 +2,7 @@
 <div id="footer">
     <div id="footerlinks">
         <a href="https://www.linkedin.com/in/danielleodigie101/" target="_blank"><img src="icons\linkedin-logo.png" alt="linkedin icon" height="25px"></a>
-        <a href="https://www.instagram.com/imdanielleo/" target="_blank"><img src="icons\instagram-logo.png" alt="instagram icon" height="25px"></a>
+        <a href="https://github.com/danielleodigie" target="_blank"><img src="icons\github.png" alt="instagram icon" height="25px"></a>
     </div>
     <p>“Caring for myself is not self-indulgence, it is self-preservation, and that is an act of political warfare.” -Audre Lorde</p>
 </div>
