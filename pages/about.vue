@@ -10,7 +10,7 @@
 
         <AboutSection imgurl="images/collegeme.jpeg" text="I graduated high school and am now attending Columbia University. After a bit of mental debate, I decided on computer science. I've been specifically interested in frontend and web development. " alttext="picture of me with Columbia University sign" class="right" pos="right" data-aos="fade-up" data-aos-duration="4000"/>
 
-        <AboutSection imgurl="images/ibmme.jpeg" text="Through an immersion program with Qubit x Qubit, I'm interning at IBM in their quantum department. I've been working on an open source quantum software benchmarking tool." alttext="picture of me with IBM hat giving a thumbs up" class="left" pos="left" data-aos="fade-up" data-aos-duration="4000" />
+        <AboutSection imgurl="images/ibmme.jpeg" text="Through an immersion program with Qubit x Qubit, I interned at IBM in their quantum department. I worked on an open source quantum software benchmarking tool. I'm returning back to IBM next summer as a quantum software developer intern" alttext="picture of me with IBM hat giving a thumbs up" class="left" pos="left" data-aos="fade-up" data-aos-duration="4000" />
         </div>
     </div>
 </template>

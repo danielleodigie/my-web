@@ -1,12 +1,12 @@
 <template>
     <div>
-        <NuxtLink :to="pagelink">
+        <a :href="pagelink" target="_blank">
             <div id="projectcard">
                 <img :src="imgurl" :alt="alttext" />
                 <h3>{{title}}</h3>
                 <p>{{languages}}</p>
             </div>
-        </NuxtLink>
+        </a>
     </div>
 </template>
 

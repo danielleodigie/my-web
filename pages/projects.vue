@@ -4,9 +4,9 @@
             <h1>Projects</h1>
         </div>
         <div id="cards">
-        <ProjectCard title="Red Queen" imgurl="images/redqueen2.jpg" alttext="chess board" languages="Qiskit, QASM" pagelink="#" />
+        <ProjectCard title="Red Queen" imgurl="images/redqueen2.jpg" alttext="chess board" languages="Qiskit, QASM" pagelink="https://github.com/Qiskit/red-queen" />
 
-        <ProjectCard title="MelaHealth" imgurl="images/melahealth.png" alttext="sample image" languages="Flask, HTML, CSS" pagelink="#" />
+        <ProjectCard title="MelaHealth" imgurl="images/melahealth.png" alttext="sample image" languages="Flask, HTML, CSS" pagelink="https://devpost.com/software/melahealth" />
         </div>
     </div>
 </template>
