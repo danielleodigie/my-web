@@ -4,7 +4,7 @@
       <h1>{{greeting}}!</h1>
     </div>
     <div id="hometext">
-      <p>Hi, I'm Danielle Odigie, student @ Columbia University majoring in <strong>computer science</strong> and minoring in <strong>linguistics</strong>. I'm interested in <strong>frontend development</strong> and <strong>quantum computing</strong>.</p>
+      <p>Hi, I'm <strong>Danielle Odigie</strong>, student @ Columbia University majoring in <strong>computer science</strong> and minoring in <strong>linguistics</strong>. I'm interested in <strong>frontend development</strong> and <strong>quantum computing</strong>.</p>
     </div>
     <div class="button">
       <a href="mailto:odigiedanielle@gmail.com">email me!</a>
@@ -64,7 +64,7 @@ export default Vue.extend({
   #greeting{
     font-family: "MomcakeBold";
     font-size: 50px;
-    padding: 10px;
+    padding: 100px;
     padding-bottom: 5px;
     text-align: center;
   }

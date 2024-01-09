@@ -34,7 +34,7 @@
         display: grid;
         grid-auto-flow: row;
         border: 1px solid grey;
-        border-radius: 3px;
+        border-radius: 15px;
         width: 90%;
         max-width: 425px;
         
@@ -44,6 +44,7 @@
         width: 100%;
         height:auto;
         border-bottom: 1px solid grey;
+        border-radius: 15px 15px 0px 0px;
     }
 
     #projectcard h3{
