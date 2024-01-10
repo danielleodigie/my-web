@@ -62,7 +62,7 @@ export default Vue.extend({
   }
 
   #greeting{
-    font-family: "MomcakeBold";
+    font-family: "TypoGraphica";
     font-size: 50px;
     padding: 100px;
     padding-bottom: 5px;

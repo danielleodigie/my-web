@@ -55,7 +55,7 @@
         font-size: 25px;
         padding-right: 20px;
         font-family: 'ThinLine';
-        font-weight: bolder;
+        font-weight: 900;
     }
 
     hr{
