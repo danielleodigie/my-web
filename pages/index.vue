@@ -1,5 +1,5 @@
+<script data-host="https://app.microanalytics.io" data-dnt="false" src="https://app.microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
 <template>
-  <script data-host="https://app.microanalytics.io" data-dnt="false" src="https://app.microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
   <div id="index" data-aos="fade-up" data-aos-duration="2000">
     <div id="greeting">
       <h1>{{greeting}}!</h1>
